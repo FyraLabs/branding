@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="666.66669"
+   height="666.66669"
+   viewBox="0 0 666.66669 666.66669"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.143"
+     inkscape:cx="185.91427"
+     inkscape:cy="333.33334"
+     inkscape:window-width="2560"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <g
+       id="g182">
+      <path
+         style="fill:#fef400;stroke-width:1.33333"
+         d="m 332.66668,418.66668 h -84.66667 v -85.33334 -85.33333 h 84.66667 84.66667 V 162.66667 77.333336 h 85.33333 85.33334 v 85.333334 85.33334 h -85.33334 -85.33333 v 85.33333 85.33334 z"
+         id="path188" />
+      <path
+         style="fill:#fe6565;stroke-width:1.33333"
+         d="M 248.00001,589.33335 H 77.333336 V 418.66668 248.00001 h 85.333334 85.33334 V 162.66667 77.333336 h 84.66667 84.66667 v 85.333334 85.33334 h 85.33333 85.33334 v 85.33333 85.33334 h -84.66667 -84.66667 v 85.33334 85.33333 z m 84.66667,-170.66667 h 84.66667 v -85.33334 -85.33333 h -84.66667 -84.66667 v 85.33333 85.33334 z"
+         id="path186" />
+      <path
+         style="fill:#545454;stroke-width:1.33333"
+         d="M 333.33334,666.66669 H 0 V 333.33334 0 h 333.33334 333.33335 v 333.33334 333.33335 z m -85.33333,-77.33334 h 170.66667 v -85.33333 -85.33334 h 84.66667 84.66667 V 248.00001 77.333336 h -170.00001 -170 v 85.333334 85.33334 H 162.66667 77.333336 v 170.66667 170.66667 z"
+         id="path184" />
+    </g>
+  </g>
+</svg>
