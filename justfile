@@ -11,5 +11,4 @@ pngify:
 clean:
   rm -rf out
 
-build pngify:
-
+build: pngify
