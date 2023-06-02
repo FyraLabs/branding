@@ -1,0 +1,23 @@
+name: Build derivative logos
+
+on:
+  push:
+    branches: ["logos"]
+  pull_request:
+    branches: ["logos"]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v3
+      - name: Install dependencies
+        run: apt update && apt install imagemagick just
+      - name: Build derivative logos
+        run: just build
+      - uses: actions/upload-artifact@v3
+        name: Upload built logos
+        with:
+          name: logos
+          path: out/
