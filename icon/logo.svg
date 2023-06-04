@@ -4,11 +4,11 @@
 <svg
    version="1.1"
    id="svg2"
-   width="666.66669"
-   height="666.66669"
-   viewBox="0 0 666.66669 666.66669"
+   width="500"
+   height="500"
+   viewBox="0 0 500 500.00001"
    sodipodi:docname="logo.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,20 +26,21 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.143"
-     inkscape:cx="185.91427"
-     inkscape:cy="333.33334"
-     inkscape:window-width="2560"
-     inkscape:window-height="1011"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:cx="191.1636"
+     inkscape:cy="339.89501"
+     inkscape:window-width="2429"
+     inkscape:window-height="1288"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
      inkscape:current-layer="g8" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
      id="g8">
     <g
-       id="g182">
+       id="g182"
+       transform="scale(0.74999997)">
       <path
          style="fill:#fef400;stroke-width:1.33333"
          d="m 332.66668,418.66668 h -84.66667 v -85.33334 -85.33333 h 84.66667 84.66667 V 162.66667 77.333336 h 85.33333 85.33334 v 85.333334 85.33334 h -85.33334 -85.33333 v 85.33333 85.33334 z"

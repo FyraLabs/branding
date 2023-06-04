@@ -5,7 +5,7 @@ pngify:
   mkdir -p out/
   mogrify -background none -format png -path out */**.svg
   for i in out/*-transp.png; do
-    convert "$i" -background none -gravity center -extent 800x800 "${i%.png}-padded.png"
+    convert "$i" -background none -gravity center -extent 650x650 "${i%.png}-padded.png"
   done
 
 clean:
