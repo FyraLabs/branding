@@ -20,3 +20,28 @@ Simply clone this repo, then:
 ```bash
 just build
 ```
+
+## 🖼️ Gallery
+
+<details>
+    <summary>Fyra Labs logos</summary>
+    <img src="icon/logo.svg" alt="Fyra Labs logo">
+    <img src="icon/logo-transp.svg" alt="Fyra Labs logo (with transparency)">
+    <img src="icon/logo-pride-transp.svg" alt="Fyra Labs pride logo (with transparency)">
+    <img src="icon+text/logo+text.svg" alt="Fyra Labs text logo (with transparency)">
+    <img src="icon+text/logo+text-bw.svg" alt="Fyra Labs text logo (with transparency and black/white)">
+</details>
+
+<details>
+    <summary>Fyra Labs Services logos</summary>
+    <img src="icon/logo-2.svg" alt="Fyra Labs Services logo">
+    <img src="icon/logo-2-transp.svg" alt="Fyra Labs Services logo (with transparency)">
+    <img src="icon/logo-2-pride-transp.svg" alt="Fyra Labs Services pride logo (with transparency)">
+    <img src="icon+text/logo+text-2.svg" alt="Fyra Labs Services text logo (with transparency)">
+</details>
+
+## 👋 Bye?
+
+Goodbye!
+
+<sub>Made with <3 by nekos at Fyra Labs~</sub>
