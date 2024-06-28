@@ -12,10 +12,10 @@ jobs:
     container:
       image: registry.fedoraproject.org/fedora-minimal:40
     steps:
+      - name: Install dependencies
+        run: sudo dnf5 install -y ImageMagick just tar
       - name: Checkout source
         uses: actions/checkout@v4
-      - name: Install dependencies
-        run: sudo dnf5 install -y ImageMagick just
       - name: Build derivative logos
         run: just build
       - uses: actions/upload-artifact@v4
