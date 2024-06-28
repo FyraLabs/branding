@@ -8,7 +8,7 @@
    height="500"
    viewBox="0 0 500 500"
    sodipodi:docname="logo-2-transp.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,12 +26,12 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.143"
-     inkscape:cx="334.20822"
-     inkscape:cy="335.52056"
+     inkscape:cx="232.72091"
+     inkscape:cy="206.91164"
      inkscape:window-width="1496"
-     inkscape:window-height="1288"
+     inkscape:window-height="914"
      inkscape:window-x="26"
-     inkscape:window-y="23"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="g847" />
   <g
@@ -42,12 +42,12 @@
        id="g847"
        transform="scale(0.74999997)">
       <path
-         style="fill:#258df8;stroke-width:1.33333"
-         d="M 248.00001,589.33335 H 77.333336 V 418.66668 248.00001 h 85.333334 85.33334 V 162.66667 77.333336 h 84.66667 84.66667 v 85.333334 85.33334 h 85.33333 85.33334 v 85.33333 85.33334 h -84.66667 -84.66667 v 85.33334 85.33333 z m 84.66667,-170.66667 h 84.66667 v -85.33334 -85.33333 h -84.66667 -84.66667 v 85.33333 85.33334 z"
+         style="fill:#258df8;stroke-width:1.73959"
+         d="M 222.86923,668.0035 H 0.20138839 V 445.33567 222.66783 H 111.5353 222.86923 V 111.33392 0 H 333.33335 443.79747 V 111.33392 222.66783 H 555.13138 666.4653 V 334.00175 445.33567 H 556.00118 445.53706 V 556.66959 668.0035 Z M 333.33335,445.33567 H 443.79747 V 334.00175 222.66783 H 333.33335 222.86923 v 111.33392 111.33392 z"
          id="path853" />
       <path
-         style="fill:#8b55be;stroke-width:1.33333"
-         d="m 332.66668,418.66668 h -84.66667 v -85.33334 -85.33333 h 84.66667 84.66667 V 162.66667 77.333336 h 85.33333 85.33334 v 85.333334 85.33334 h -85.33334 -85.33333 v 85.33333 85.33334 z"
+         style="fill:#8b55be;stroke-width:1.73959"
+         d="M 333.33335,445.33567 H 222.86923 V 334.00175 222.66783 H 333.33335 443.79747 V 111.33392 0 H 555.13138 666.4653 V 111.33392 222.66783 H 555.13138 443.79747 v 111.33392 111.33392 z"
          id="path851" />
     </g>
   </g>
