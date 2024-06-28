@@ -13,7 +13,7 @@ jobs:
       image: registry.fedoraproject.org/fedora-minimal:40
     steps:
       - name: Install dependencies
-        run: sudo dnf5 install -y ImageMagick just tar
+        run: sudo dnf5 install -y ImageMagick just tar sudo
       - name: Checkout source
         uses: actions/checkout@v4
       - name: Build derivative logos
