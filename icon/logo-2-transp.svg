@@ -25,30 +25,34 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.143"
-     inkscape:cx="232.72091"
-     inkscape:cy="206.91164"
+     inkscape:zoom="0.32330687"
+     inkscape:cx="532.0023"
+     inkscape:cy="487.15327"
      inkscape:window-width="1496"
      inkscape:window-height="914"
      inkscape:window-x="26"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g847" />
+     inkscape:current-layer="g8" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
-     id="g8">
+     id="g8"
+     style="stroke-width:0;stroke-dasharray:none">
     <g
-       id="g847"
-       transform="scale(0.74999997)">
+       id="g1"
+       transform="translate(16,43)"
+       style="display:inline;stroke-width:0;stroke-dasharray:none">
       <path
-         style="fill:#258df8;stroke-width:1.73959"
-         d="M 222.86923,668.0035 H 0.20138839 V 445.33567 222.66783 H 111.5353 222.86923 V 111.33392 0 H 333.33335 443.79747 V 111.33392 222.66783 H 555.13138 666.4653 V 334.00175 445.33567 H 556.00118 445.53706 V 556.66959 668.0035 Z M 333.33335,445.33567 H 443.79747 V 334.00175 222.66783 H 333.33335 222.86923 v 111.33392 111.33392 z"
-         id="path853" />
+         style="fill:#8b55be;stroke-width:0;fill-opacity:1;stroke-dasharray:none"
+         d="m 234.07553,291.1027 h -82.87314 v -83.52569 -83.52566 h 82.87314 82.87312 V 40.525674 -43 H 400.47432 484 v 83.525674 83.525676 h -83.52568 -83.52567 v 83.52566 83.52569 z"
+         id="path188" />
       <path
-         style="fill:#8b55be;stroke-width:1.73959"
-         d="M 333.33335,445.33567 H 222.86923 V 334.00175 222.66783 H 333.33335 443.79747 V 111.33392 0 H 555.13138 666.4653 V 111.33392 222.66783 H 555.13138 443.79747 v 111.33392 111.33392 z"
-         id="path851" />
+         style="fill:#258df8;stroke-width:0;fill-opacity:1;stroke-dasharray:none"
+         d="m -16,457 0.151041,-165.8973 V 124.05135 H 67.676717 151.20239 V 40.525674 -43 h 82.87314 82.87312 V 40.525674 124.05135 H 400.47432 484 v 83.52566 83.52569 H 401.12687 316.94865 V 374.62837 457 Z M 234.07553,291.1027 h 82.87312 v -83.52569 -83.52566 h -82.87312 -82.87314 v 83.52566 83.52569 z"
+         id="path186"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccc"
+         inkscape:label="path186" />
     </g>
   </g>
 </svg>
