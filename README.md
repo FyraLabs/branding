@@ -11,6 +11,8 @@ Please make sure you have these dependencies first before building.
 ```bash
 just
 ImageMagick
+inkscape
+python3-scour
 ```
 
 ## 🏗️ Building

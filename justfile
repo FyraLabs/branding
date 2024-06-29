@@ -15,6 +15,7 @@ export-inkscape:
   for i in */**.svg; do
     base=${i##*/}
     inkscape "$i" --export-plain-svg --export-type=svg --export-filename=- | scour -o out/"${base}"
+    inkscape "$i" --export-filename=out/"${base%.svg}".pdf
   done
 
 clean:
