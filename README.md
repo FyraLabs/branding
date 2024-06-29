@@ -43,7 +43,7 @@ just build
 </details>
 
 <details>
-    <summary>Ultramarine logos</summary>
+    <summary>Ultramarine Linux logos</summary>
     <img src="icon/ultramarine-transp.svg" alt="Ultramarine Linux logo (with transparency)">
     <img src="icon/ultramarine-pride-transp.svg" alt="Ultramarine Linux pride logo (with transparency)">
 </details>
