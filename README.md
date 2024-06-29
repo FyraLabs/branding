@@ -42,6 +42,12 @@ just build
     <img src="icon+text/logo+text-2.svg" alt="Fyra Labs Services text logo (with transparency)">
 </details>
 
+<details>
+    <summary>Ultramarine logos</summary>
+    <img src="icon/ultramarine-transp.svg" alt="Ultramarine Linux logo (with transparency)">
+    <img src="icon/ultramarine-pride-transp.svg" alt="Ultramarine Linux pride logo (with transparency)">
+</details>
+
 ## 👋 Bye?
 
 Goodbye!
