@@ -5,8 +5,8 @@
         <rect x="0.424" y="1.457" width="1500.31" height="485.704" style="fill:rgb(24,24,27);"/>
     </g>
     <g transform="matrix(1,0,0,1,406.785,214.921)">
-        <text x="463.553px" y="146.019px" style="font-family:'SatoshiVariable-Bold_Bold', 'Satoshi Variable';font-weight:900;font-size:60px;fill:rgb(249,250,251);">The futur<tspan x="728.153px " y="146.019px ">e</tspan> is open,</text>
-        <text x="689.873px" y="212.019px" style="font-family:'SatoshiVariable-Bold_Bold', 'Satoshi Variable';font-weight:900;font-size:60px;fill:rgb(249,250,251);">w<tspan x="738.233px " y="212.019px ">e</tspan> b<tspan x="826.313px " y="212.019px ">u</tspan>ild it<tspan x="985.493px " y="212.019px ">.</tspan></text>
+        <text x="463.553px" y="146.019px" style="font-family:'SatoshiVariable-Bold_Bold', 'Satoshi Variable';font-weight:900;font-size:60px;fill:rgb(249,250,251);">The future is open,</text>
+        <text x="689.873px" y="212.019px" style="font-family:'SatoshiVariable-Bold_Bold', 'Satoshi Variable';font-weight:900;font-size:60px;fill:rgb(249,250,251);">we build it.</text>
     </g>
     <g>
         <path d="M566.45,170.047C563.021,148.501 606.541,105.817 615.908,98.477C622.222,93.53 629.22,89.214 636.709,86.279C660.576,76.926 683.45,86.734 692.185,111.151C704.065,144.355 695.374,180.673 728.456,202.846" style="fill:none;stroke:url(#_Linear1);stroke-width:2px;"/>
