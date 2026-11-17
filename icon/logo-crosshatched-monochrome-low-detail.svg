@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" xmlns:bx="https://fyralabs.com">
+  <defs>
+    <bx:grid x="0" y="0" width="3.4" height="3.4" divisions="1"/>
+  </defs>
+  <g id="svg2">
+    <g id="g8" style="stroke-width:0;stroke-dasharray:none" transform="matrix(1, 0, 0, 1, 327.464264, 80.231186)">
+      <g id="g1" transform="matrix(1.018426, 0, 0, 1.018426, -582.483032, -192.115173)" style="stroke-width: 0px; stroke-dasharray: none; pointer-events: none;"/>
+      <path style="stroke: rgb(0, 0, 0); stroke-width: 1px; pointer-events: none;" d="M 122.718 -22.143 L 122.718 21.423 L 79.152 -22.143 L 122.718 -22.143"/>
+      <path style="stroke: rgb(0, 0, 0); stroke-width: 1px;" d="M 122.718 108.555 L -7.98 -22.143 L 35.586 -22.143 L 122.718 64.989 L 122.718 108.555 Z"/>
+      <path style="stroke: rgb(0, 0, 0); stroke-width: 1px;" d="M 122.718 152.121 L 122.718 195.687 L -95.112 -22.143 L -51.546 -22.143 L 122.718 152.121 Z"/>
+      <path style="stroke: rgb(0, 0, 0); stroke-width: 1px;" d="M 122.718 239.253 L -138.678 -22.143 L -138.678 21.423 L 79.152 239.253 L 122.718 239.253 Z"/>
+      <path style="stroke: rgb(0, 0, 0); stroke-width: 1px;" d="M 35.586 239.253 L -138.678 64.989 L -138.678 108.555 L -7.98 239.253 L 35.586 239.253 Z"/>
+      <path style="stroke: rgb(0, 0, 0); stroke-width: 1px;" d="M -7.98 282.819 L -182.244 108.555 L -225.81 108.555 L -7.98 326.385 L -7.98 282.819 Z"/>
+      <path style="stroke: rgb(0, 0, 0); stroke-width: 1px;" d="M -269.376 108.555 L -7.98 369.951 L -51.546 369.951 L -269.376 152.121 L -269.376 108.555 Z"/>
+      <path style="stroke: rgb(0, 0, 0); stroke-width: 1px;" d="M -269.376 195.687 L -95.112 369.951 L -138.678 369.951 L -269.376 239.253 L -269.376 195.687 Z"/>
+      <path style="stroke: rgb(0, 0, 0); stroke-width: 1px;" d="M -269.376 282.819 L -182.244 369.951 L -225.81 369.951 L -269.376 326.385 L -269.376 282.819 Z"/>
+    </g>
+  </g>
+  <path style="stroke: rgb(0, 0, 0);" d="M 319.484 406.616 L 319.484 450.182 L 275.918 450.182 L 319.484 406.616 Z"/>
+  <path style="stroke: rgb(0, 0, 0);" d="M 232.352 450.182 L 319.484 363.05 L 319.484 319.484 L 188.786 450.182 L 232.352 450.182 Z"/>
+  <path style="stroke: rgb(0, 0, 0);" d="M 145.22 450.182 L 275.918 319.484 L 232.352 319.484 L 101.654 450.182 L 145.22 450.182 Z"/>
+  <path style="stroke: rgb(0, 0, 0);" d="M 58.088 450.182 L 188.786 319.484 L 188.786 275.918 L 58.088 406.616 L 58.088 450.182 Z"/>
+  <path style="stroke: rgb(0, 0, 0);" d="M 58.088 363.05 L 188.786 232.352 L 188.786 188.786 L 58.088 319.484 C 58.088 319.504 58.088 369.623 58.088 363.05 Z"/>
+  <path style="stroke: rgb(0, 0, 0);" d="M 58.088 275.918 L 145.22 188.786 L 101.654 188.786 L 58.088 232.352 L 58.088 275.918 Z"/>
+  <path style="stroke: rgb(0, 0, 0);" d="M 450.182 275.918 L 450.182 319.484 L 406.616 319.484 L 450.182 275.918 Z"/>
+  <path style="stroke: rgb(0, 0, 0);" d="M 363.05 319.484 L 450.182 232.352 L 450.182 188.786 L 319.484 319.484 L 363.05 319.484 Z"/>
+  <path style="stroke: rgb(0, 0, 0);" d="M 319.484 145.22 L 319.484 188.786 L 275.918 188.786 L 319.484 145.22 Z"/>
+  <path style="stroke: rgb(0, 0, 0);" d="M 232.352 188.786 L 319.484 101.654 L 319.484 58.088 L 188.786 188.786 L 232.352 188.786 Z"/>
+  <path style="stroke: rgb(0, 0, 0);" d="M 319.484 275.918 L 319.484 232.352 L 363.05 188.786 L 406.616 188.786 L 319.484 275.918 Z"/>
+  <path style="stroke: rgb(0, 0, 0);" d="M 275.918 58.088 L 188.786 145.22 L 188.786 101.654 L 232.352 58.088 L 275.918 58.088 Z"/>
+</svg>
